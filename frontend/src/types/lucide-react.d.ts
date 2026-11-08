@@ -1,0 +1,42 @@
+declare module 'lucide-react' {
+  import React from 'react';
+  export const LayoutDashboard: React.FC<any>;
+  export const Users: React.FC<any>;
+  export const Gavel: React.FC<any>;
+  export const CreditCard: React.FC<any>;
+  export const BookOpen: React.FC<any>;
+  export const FileText: React.FC<any>;
+  export const Shield: React.FC<any>;
+  export const UserCircle: React.FC<any>;
+  export const Bell: React.FC<any>;
+  export const ChevronDown: React.FC<any>;
+  export const Wallet: React.FC<any>;
+  export const TrendingUp: React.FC<any>;
+  export const CheckCircle2: React.FC<any>;
+  export const AlertCircle: React.FC<any>;
+  export const ArrowRight: React.FC<any>;
+  export const ShieldCheck: React.FC<any>;
+  export const Trophy: React.FC<any>;
+  export const Calculator: React.FC<any>;
+  export const Play: React.FC<any>;
+  export const Square: React.FC<any>;
+  export const Award: React.FC<any>;
+  export const CheckCircle: React.FC<any>;
+  export const AlertTriangle: React.FC<any>;
+  export const Info: React.FC<any>;
+  export const DollarSign: React.FC<any>;
+  export const Plus: React.FC<any>;
+  export const Calendar: React.FC<any>;
+  export const Layers: React.FC<any>;
+  export const Search: React.FC<any>;
+  export const UserPlus: React.FC<any>;
+  export const Clock: React.FC<any>;
+  export const ArrowDownLeft: React.FC<any>;
+  export const ArrowUpRight: React.FC<any>;
+  export const Filter: React.FC<any>;
+  export const Printer: React.FC<any>;
+  export const Download: React.FC<any>;
+  export const PieChart: React.FC<any>;
+  export const UserCheck: React.FC<any>;
+}
+
